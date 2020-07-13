@@ -13,7 +13,7 @@ class Dog
   end
   
   def bark
-    @barking_dog puts "woof!"
+    @barking_dog
   end
 
 end
